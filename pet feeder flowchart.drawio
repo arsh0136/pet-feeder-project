@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="-MFbl45qaw86m29MCsgs">
+    <mxGraphModel dx="1042" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-1" value="INITIALIZATION" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-380" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.563;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mx8qIhBhpSldT9rS0ifi-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-120" as="sourcePoint" />
+            <mxPoint x="449.370160041301" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="-140" as="sourcePoint" />
+            <mxPoint x="450" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mx8qIhBhpSldT9rS0ifi-6" target="mx8qIhBhpSldT9rS0ifi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-6" value="LEVEL OF FOOD INCREASED" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-50" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-7" value="PET DONE WITH FEEDING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mx8qIhBhpSldT9rS0ifi-7" target="mx8qIhBhpSldT9rS0ifi-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="30" as="sourcePoint" />
+            <mxPoint x="450" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=1.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mx8qIhBhpSldT9rS0ifi-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="110" as="sourcePoint" />
+            <mxPoint x="469.98363933830205" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-16" value="not empty bowl" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mx8qIhBhpSldT9rS0ifi-18" value="7 am to 9 pm" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-210" width="170" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
